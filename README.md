@@ -2,7 +2,7 @@
 
 ## 👤 Integrante
 
-**Ebert Bernardo Ocares Luna**  
+**Maria Ninahuanca Romani **  
 Área Académica de Análisis de Sistemas  
 Versión: 1.0.0 — Mayo 2026
 
